@@ -1,6 +1,6 @@
 # Examen correspondiente al Segundo Parcial, Encuentra el error en la pagina y corrigelo
-Euan Tun Hector Julian 
-Pech Poot Jabib Alexander 
+Euan tun hector julian 
+Pech poot jabib aexander 
 
 Agrega en este espacio el nombre completo de los integrantes del equipo, es importante comenzar con los apellidos. 
 Despues deberas tomar captura de las pantallas completas (que aparezca toda la pantalla incluido la hora) y agregaras una  la explicación de lo que se realizo  y subirlo en el espacio de classroom.
